@@ -1,0 +1,8 @@
+name: APanel
+version: '${version}'
+main: kz.ifihtich.apanel.APanel
+api-version: '1.16'
+depend: [PlaceholderAPI]
+commands:
+  panel:
+  panelreload:
