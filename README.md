@@ -74,9 +74,4 @@ messages:
 > ### Разрешения
 **apanel.*** - Доступ ко всем командам.\
 **apanel.use** - Доступ к /panel ник_нарушителя.\
-**apanel.reload** - Доступ к /panelreload.\
-
-# P.S.
-> [!NOTE]
-> Плагин является платным, купить его Вы можете по ссылке ниже.\
-> https://funpay.com/lots/offer?id=61035783
+**apanel.reload** - Доступ к /panelreload.
